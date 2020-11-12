@@ -1,9 +1,11 @@
 export class Course{
     id: number;
     name: string;
-    imageUrl: string;
-    price: number;
+    releaseDate: string;
+    description: string;
+    duration: number;
     code: string;
     rating: number;
-    releaseDate: string;
+    price: number;
+    imageUrl: string;
 }
