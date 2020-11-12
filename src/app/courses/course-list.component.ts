@@ -31,9 +31,6 @@ export class CourseListComponent implements OnInit{
                 rating: 4,
                 releaseDate: 'December, 4, 2019'
             }
-
         ]
     
     }
-
-}
